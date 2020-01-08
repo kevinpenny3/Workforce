@@ -1,0 +1,66 @@
+{
+    "computers": [
+        {
+            "id": 1,
+            "model": "Macbook Pro",
+            "year": 2015
+        },
+        {
+            "id": 2,
+            "model": "Alienware Area-51",
+            "year": 1997
+        },
+        {
+            "id": 3,
+            "model": "Commodore Amiga",
+            "year": 1985
+        },
+        {
+            "id": 4,
+            "model": "Samsung Q1",
+            "year": 2006
+        },
+        {
+            "id": 5,
+            "model": "Dell Adamo XPS",
+            "year": 2009
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Rainu",
+            "lastName": "Ittycheriah",
+            "age": 45,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "firstName": "Namita",
+            "lastName": "Manohar",
+            "age": 15,
+            "computerId": 5
+        },
+        {
+            "id": 3,
+            "firstName": "Willy",
+            "lastName": "Metcalf",
+            "age": 87,
+            "computerId": 2
+        },
+        {
+            "id": 4,
+            "firstName": "Mo",
+            "lastName": "Silvera",
+            "age": 10,
+            "computerId": 4
+        },
+        {
+            "id": 5,
+            "firstName": "Steve",
+            "lastName": "Brownlee",
+            "age": 99,
+            "computerId": 3
+        }
+    ]
+}
