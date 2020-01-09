@@ -32,35 +32,77 @@
             "firstName": "Rainu",
             "lastName": "Ittycheriah",
             "age": 45,
-            "computerId": 1
+            "computerId": 1,
+            "departmentId": 1,
+            "officeId": 1
         },
         {
             "id": 2,
             "firstName": "Namita",
             "lastName": "Manohar",
             "age": 15,
-            "computerId": 5
+            "computerId": 5,
+            "departmentId": 3,
+            "officeId": 2
         },
         {
             "id": 3,
             "firstName": "Willy",
             "lastName": "Metcalf",
             "age": 87,
-            "computerId": 2
+            "computerId": 2,
+            "departmentId": 2,
+            "officeId": 3
         },
         {
             "id": 4,
             "firstName": "Mo",
             "lastName": "Silvera",
             "age": 10,
-            "computerId": 4
+            "computerId": 4,
+            "departmentId": 2,
+            "officeId": 1
         },
         {
             "id": 5,
             "firstName": "Steve",
             "lastName": "Brownlee",
             "age": 99,
-            "computerId": 3
+            "computerId": 3,
+            "departmentId": 1,
+            "officeId": 2
+        }
+    ],
+    "departments": [
+            {
+                "id": 1,
+                "name": "IT"
+            },
+            {
+                "id": 2,
+                "name": "Human Resources"
+            },
+            {
+                "id": 3,
+                "name": "Accounting"
+            },
+            {
+                "id": 4,
+                "name": "Marketing"
+            }
+    ],
+    "offices": [
+        {
+            "id": 1,
+            "name": "Nashville"
+        },
+        {
+            "id": 2,
+            "name": "Atlanta"
+        },
+        {
+            "id": 3,
+            "name": "Memphis"
         }
     ]
 }
